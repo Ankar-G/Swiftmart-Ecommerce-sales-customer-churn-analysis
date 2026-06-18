@@ -1,0 +1,308 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Price,Cost_Price
+P0001,iPhone 15 Pro Max 256GB,Electronics,Smartphones,1299.99,945
+P0002,Samsung Galaxy S24 Ultra,Electronics,Smartphones,1199.99,839.99
+P0003,OnePlus 12 5G,Electronics,Smartphones,799.99,559.99
+P0004,Google Pixel 8 Pro,Electronics,Smartphones,999.99,679.99
+P0005,Xiaomi 14 Ultra,Electronics,Smartphones,899.99,629.99
+P0006,Vivo X100,Electronics,Smartphones,749.99,524.99
+P0007,OPPO Reno 11,Electronics,Smartphones,599.99,419.99
+P0008,Nothing Phone 2a,Electronics,Smartphones,499.99,349.99
+P0009,Motorola Edge 50,Electronics,Smartphones,449.99,314.99
+P0010,Realme 12,Electronics,Smartphones,379.99,265.99
+P0011,Dell XPS 15 Laptop,Electronics,Laptops,2499.99,1699.99
+P0012,MacBook Pro 16 M3 Max,Electronics,Laptops,3499.99,2324.99
+P0013,HP Pavilion 15 Laptop,Electronics,Laptops,849.99,594.99
+P0014,Lenovo ThinkPad X1 Carbon,Electronics,Laptops,1799.99,1259.99
+P0015,ASUS VivoBook 15,Electronics,Laptops,749.99,524.99
+P0016,Acer Aspire 5 Laptop,Electronics,Laptops,699.99,489.99
+P0017,MSI Gaming Laptop GF63,Electronics,Laptops,1299.99,909.99
+P0018,Razer Blade 14 Gaming Laptop,Electronics,Laptops,2299.99,1609.99
+P0019,Apple MacBook Air M2,Electronics,Laptops,1999.99,1399.99
+P0020,Surface Laptop Studio,Electronics,Laptops,2999.99,1999.99
+P0021,iPad Air 11-inch,Electronics,Tablets,799.99,559.99
+P0022,iPad Pro 12.9-inch,Electronics,Tablets,1099.99,769.99
+P0023,Samsung Galaxy Tab S9 Ultra,Electronics,Tablets,899.99,629.99
+P0024,Lenovo Tab P12 Pro,Electronics,Tablets,749.99,524.99
+P0025,OnePlus Pad,Electronics,Tablets,649.99,454.99
+P0026,Microsoft Surface Pro 9,Electronics,Tablets,1299.99,909.99
+P0027,iPad Mini 7,Electronics,Tablets,499.99,349.99
+P0028,Samsung Galaxy Tab A8,Electronics,Tablets,349.99,244.99
+P0029,Amazon Fire Max 11,Electronics,Tablets,249.99,174.99
+P0030,Realme Pad Mini,Electronics,Tablets,199.99,139.99
+P0031,Apple AirPods Pro Max,Electronics,Audio,549.99,384.99
+P0032,Sony WH-1000XM5 Headphones,Electronics,Audio,399.99,279.99
+P0033,Bose QuietComfort 45,Electronics,Audio,379.99,265.99
+P0034,Sennheiser Momentum 4,Electronics,Audio,499.99,349.99
+P0035,JBL Live 660NC Headphones,Electronics,Audio,229.99,160.99
+P0036,Beats Studio Pro,Electronics,Audio,399.99,279.99
+P0037,Bang & Olufsen Beoplay HX,Electronics,Audio,379.99,265.99
+P0038,Marshall Major IV,Electronics,Audio,199.99,139.99
+P0039,Anker Soundcore Pro,Electronics,Audio,129.99,90.99
+P0040,JBL Flip 6 Speaker,Electronics,Audio,129.99,90.99
+P0041,Premium iPhone 15 Pro Case,Electronics,Accessories,49.99,34.99
+P0042,Spigen iPhone Case Clear,Electronics,Accessories,24.99,17.49
+P0043,OtterBox Defender Case,Electronics,Accessories,39.99,27.99
+P0044,Apple USB-C Lightning Cable,Electronics,Accessories,19.99,13.99
+P0045,Anker 65W Fast Charger,Electronics,Accessories,34.99,24.49
+P0046,Belkin Wireless Charging Pad,Electronics,Accessories,29.99,20.99
+P0047,iMuto Power Bank 30000mAh,Electronics,Accessories,39.99,27.99
+P0048,Baseus Car Phone Mount,Electronics,Accessories,14.99,10.49
+P0049,Tempered Glass Screen Protector,Electronics,Accessories,9.99,6.99
+P0050,USB-C Hub 7-in-1,Electronics,Accessories,44.99,31.49
+P0051,Canon EOS R5 Mirrorless Camera,Electronics,Cameras,3899.99,2729.99
+P0052,Sony A7R V,Electronics,Cameras,3198,2238.6
+P0053,Nikon Z9 Pro Camera,Electronics,Cameras,5496.95,3847.87
+P0054,Canon EOS 90D DSLR,Electronics,Cameras,1199.99,839.99
+P0055,Nikon D850 Camera,Electronics,Cameras,3296.95,2307.87
+P0056,GoPro HERO 12 Action Camera,Electronics,Cameras,499.99,349.99
+P0057,DJI Osmo Action 4,Electronics,Cameras,349.99,244.99
+P0058,Insta360 ONE X3,Electronics,Cameras,449.99,314.99
+P0059,Sony Cyber-shot RX100 VII,Electronics,Cameras,1198,838.6
+P0060,Fujifilm X-T5 Camera,Electronics,Cameras,1699.99,1189.99
+P0061,Cotton Plain T-Shirt Men,Fashion,Mens Clothing,19.99,13.99
+P0062,Formal White Dress Shirt,Fashion,Mens Clothing,34.99,24.49
+P0063,Slim Fit Denim Jeans,Fashion,Mens Clothing,49.99,34.99
+P0064,Casual Cotton Polo Shirt,Fashion,Mens Clothing,29.99,20.99
+P0065,Linen Lounge Shorts,Fashion,Mens Clothing,24.99,17.49
+P0066,Cargo Joggers Men,Fashion,Mens Clothing,39.99,27.99
+P0067,Hoodie Full Zip,Fashion,Mens Clothing,54.99,38.49
+P0068,Chino Trousers Tapered,Fashion,Mens Clothing,59.99,41.99
+P0069,Striped Sweater Crew Neck,Fashion,Mens Clothing,44.99,31.49
+P0070,Athletic Running T-Shirt,Fashion,Mens Clothing,34.99,24.49
+P0071,Saree Cotton Printed,Fashion,Womens Clothing,39.99,27.99
+P0072,Ethnic Anarkali Suit Set,Fashion,Womens Clothing,64.99,45.49
+P0073,Casual Cotton Kurti,Fashion,Womens Clothing,29.99,20.99
+P0074,Floral Maxi Dress,Fashion,Womens Clothing,49.99,34.99
+P0075,Denim Jacket Slim Fit,Fashion,Womens Clothing,69.99,48.99
+P0076,Lehenga Choli Set,Fashion,Womens Clothing,79.99,55.99
+P0077,Cotton Salwar Kameez,Fashion,Womens Clothing,44.99,31.49
+P0078,Crepe Palazzo Pants,Fashion,Womens Clothing,39.99,27.99
+P0079,Lace Blouse Top,Fashion,Womens Clothing,34.99,24.49
+P0080,Cotton Blend Tank Top,Fashion,Womens Clothing,19.99,13.99
+P0081,Canvas Sneakers Unisex,Fashion,Footwear,39.99,27.99
+P0082,Leather Derby Formal Shoes,Fashion,Footwear,79.99,55.99
+P0083,Running Shoes Athletic,Fashion,Footwear,89.99,62.99
+P0084,Sandals Slide Comfort,Fashion,Footwear,24.99,17.49
+P0085,Flip Flops Summer,Fashion,Footwear,14.99,10.49
+P0086,Loafers Casual Men,Fashion,Footwear,54.99,38.49
+P0087,Heels Stiletto Party,Fashion,Footwear,64.99,45.49
+P0088,Boots Ankle Leather,Fashion,Footwear,74.99,52.49
+P0089,Sports Shoes Basketball,Fashion,Footwear,99.99,69.99
+P0090,Walking Shoes Orthopedic,Fashion,Footwear,69.99,48.99
+P0091,Leather Crossbody Bag,Fashion,Accessories,54.99,38.49
+P0092,Canvas Tote Shopping Bag,Fashion,Accessories,34.99,24.49
+P0093,Backpack Travel 40L,Fashion,Accessories,79.99,55.99
+P0094,Clutch Evening Bag,Fashion,Accessories,44.99,31.49
+P0095,Laptop Messenger Bag,Fashion,Accessories,64.99,45.49
+P0096,Waist Belt Leather,Fashion,Accessories,24.99,17.49
+P0097,Scarf Pashmina Shawl,Fashion,Accessories,34.99,24.49
+P0098,Watch Analog Quartz,Fashion,Accessories,89.99,62.99
+P0099,Wallet RFID Blocking,Fashion,Accessories,29.99,20.99
+P0100,Sunglasses UV Protection,Fashion,Accessories,49.99,34.99
+P0101,Microwave Oven 30L,Home & Kitchen,Kitchen Appliances,199.99,139.99
+P0102,Electric Blender 1000W,Home & Kitchen,Kitchen Appliances,79.99,55.99
+P0103,Coffee Maker Drip,Home & Kitchen,Kitchen Appliances,89.99,62.99
+P0104,Toaster 4-Slice,Home & Kitchen,Kitchen Appliances,49.99,34.99
+P0105,Kettle Electric 1.7L,Home & Kitchen,Kitchen Appliances,34.99,24.49
+P0106,Air Fryer 4.5L,Home & Kitchen,Kitchen Appliances,129.99,90.99
+P0107,Juicer Cold Press,Home & Kitchen,Kitchen Appliances,119.99,83.99
+P0108,Food Processor 12-Cup,Home & Kitchen,Kitchen Appliances,149.99,104.99
+P0109,Slow Cooker 6-Quart,Home & Kitchen,Kitchen Appliances,69.99,48.99
+P0110,Instant Pot Duo Plus,Home & Kitchen,Kitchen Appliances,139.99,97.99
+P0111,Stainless Steel Pressure Cooker 5L,Home & Kitchen,Cookware,39.99,27.99
+P0112,Non-Stick Frying Pan,Home & Kitchen,Cookware,24.99,17.49
+P0113,Cookware Set 12-Piece,Home & Kitchen,Cookware,89.99,62.99
+P0114,Cast Iron Skillet 12 inch,Home & Kitchen,Cookware,34.99,24.49
+P0115,Stock Pot Stainless Steel,Home & Kitchen,Cookware,44.99,31.49
+P0116,Griddle Pan Flat Top,Home & Kitchen,Cookware,29.99,20.99
+P0117,Baking Tray Set,Home & Kitchen,Cookware,19.99,13.99
+P0118,Wok Carbon Steel,Home & Kitchen,Cookware,49.99,34.99
+P0119,Dutch Oven Enameled,Home & Kitchen,Cookware,79.99,55.99
+P0120,Mixing Bowls Nesting Set,Home & Kitchen,Cookware,14.99,10.49
+P0121,Modern Sectional Sofa,Home & Kitchen,Furniture,899.99,629.99
+P0122,Leather Reclining Sofa,Home & Kitchen,Furniture,1299.99,909.99
+P0123,Fabric Loveseat Couch,Home & Kitchen,Furniture,499.99,349.99
+P0124,Bed Frame Queen Size,Home & Kitchen,Furniture,349.99,244.99
+P0125,King Size Storage Bed,Home & Kitchen,Furniture,499.99,349.99
+P0126,Dining Table Set 6-Seater,Home & Kitchen,Furniture,599.99,419.99
+P0127,Coffee Table Wooden,Home & Kitchen,Furniture,199.99,139.99
+P0128,Bookshelf 5-Tier,Home & Kitchen,Furniture,149.99,104.99
+P0129,TV Stand 65-inch,Home & Kitchen,Furniture,249.99,174.99
+P0130,Office Desk Wooden,Home & Kitchen,Furniture,299.99,209.99
+P0131,Wall Clock Analog,Home & Kitchen,Decor,29.99,20.99
+P0132,LED Wall Lights Strip,Home & Kitchen,Decor,34.99,24.49
+P0133,Area Rug 5x7,Home & Kitchen,Decor,99.99,69.99
+P0134,Curtains Blackout Panel,Home & Kitchen,Decor,44.99,31.49
+P0135,Wall Art Canvas Print,Home & Kitchen,Decor,39.99,27.99
+P0136,Table Lamp Desk,Home & Kitchen,Decor,49.99,34.99
+P0137,Floor Lamp Torchiere,Home & Kitchen,Decor,64.99,45.49
+P0138,Throw Pillow Cushion,Home & Kitchen,Decor,24.99,17.49
+P0139,Picture Frame Set,Home & Kitchen,Decor,19.99,13.99
+P0140,Decorative Mirror Wall,Home & Kitchen,Decor,59.99,41.99
+P0141,Adjustable Dumbbells Set 5-50 LB,Sports & Fitness,Equipment,249.99,174.99
+P0142,Yoga Mat Non-Slip 6MM,Sports & Fitness,Equipment,29.99,20.99
+P0143,Resistance Bands Loop Set,Sports & Fitness,Equipment,19.99,13.99
+P0144,Kettlebell Iron 20 LB,Sports & Fitness,Equipment,34.99,24.49
+P0145,Pull-Up Bar Door Mount,Sports & Fitness,Equipment,49.99,34.99
+P0146,Foam Roller Massage 36 inch,Sports & Fitness,Equipment,24.99,17.49
+P0147,Ab Roller Wheel,Sports & Fitness,Equipment,19.99,13.99
+P0148,Jump Rope Speed Fitness,Sports & Fitness,Equipment,14.99,10.49
+P0149,Bench Press Adjustable,Sports & Fitness,Equipment,149.99,104.99
+P0150,Barbell Set 100 LB,Sports & Fitness,Equipment,199.99,139.99
+P0151,Badminton Racket Set,Sports & Fitness,Sports,44.99,31.49
+P0152,Cricket Bat Wooden,Sports & Fitness,Sports,54.99,38.49
+P0153,Volleyball Indoor,Sports & Fitness,Sports,24.99,17.49
+P0154,Football Soccer Ball,Sports & Fitness,Sports,29.99,20.99
+P0155,Basketball Official Size,Sports & Fitness,Sports,34.99,24.49
+P0156,Tennis Racket Graphite,Sports & Fitness,Sports,79.99,55.99
+P0157,Badminton Shuttlecock,Sports & Fitness,Sports,9.99,6.99
+P0158,Cricket Stumps Set,Sports & Fitness,Sports,34.99,24.49
+P0159,Table Tennis Paddle Set,Sports & Fitness,Sports,19.99,13.99
+P0160,Bowling Pins Ball Set,Sports & Fitness,Sports,49.99,34.99
+P0161,Gym Duffel Bag Large,Sports & Fitness,Fitness Accessories,39.99,27.99
+P0162,Water Bottle Stainless Steel 32oz,Sports & Fitness,Fitness Accessories,24.99,17.49
+P0163,Gym Towel Microfiber,Sports & Fitness,Fitness Accessories,14.99,10.49
+P0164,Wrist Wraps Weight Lifting,Sports & Fitness,Fitness Accessories,19.99,13.99
+P0165,Lifting Gloves Padded,Sports & Fitness,Fitness Accessories,24.99,17.49
+P0166,Resistance Loop Bands,Sports & Fitness,Fitness Accessories,14.99,10.49
+P0167,Sports Watch Fitness Tracker,Sports & Fitness,Fitness Accessories,129.99,90.99
+P0168,Yoga Block Foam,Sports & Fitness,Fitness Accessories,14.99,10.49
+P0169,Gym Shoes Cross Training,Sports & Fitness,Fitness Accessories,79.99,55.99
+P0170,Bluetooth Speaker Waterproof,Sports & Fitness,Fitness Accessories,59.99,41.99
+P0171,Face Moisturizer Hydrating,Beauty & Personal Care,Skincare,29.99,20.99
+P0172,Face Cleanser Gentle,Beauty & Personal Care,Skincare,19.99,13.99
+P0173,Vitamin C Serum Anti-Aging,Beauty & Personal Care,Skincare,34.99,24.49
+P0174,Face Mask Sheet Hydrating,Beauty & Personal Care,Skincare,14.99,10.49
+P0175,Sunscreen SPF 50,Beauty & Personal Care,Skincare,24.99,17.49
+P0176,Eye Cream Dark Circle,Beauty & Personal Care,Skincare,34.99,24.49
+P0177,Face Toner Balancing,Beauty & Personal Care,Skincare,19.99,13.99
+P0178,Exfoliating Scrub,Beauty & Personal Care,Skincare,16.99,11.89
+P0179,Night Cream Nourishing,Beauty & Personal Care,Skincare,39.99,27.99
+P0180,BB Cream Foundation,Beauty & Personal Care,Skincare,24.99,17.49
+P0181,Hair Shampoo Nourishing,Beauty & Personal Care,Haircare,12.99,9.09
+P0182,Hair Conditioner Moisturizing,Beauty & Personal Care,Haircare,12.99,9.09
+P0183,Hair Oil Coconut,Beauty & Personal Care,Haircare,9.99,6.99
+P0184,Hair Mask Treatment,Beauty & Personal Care,Haircare,14.99,10.49
+P0185,Dry Shampoo Spray,Beauty & Personal Care,Haircare,9.99,6.99
+P0186,Hair Serum Smoothing,Beauty & Personal Care,Haircare,14.99,10.49
+P0187,Anti-Frizz Hair Spray,Beauty & Personal Care,Haircare,11.99,8.39
+P0188,Hair Dye Permanent Color,Beauty & Personal Care,Haircare,9.99,6.99
+P0189,Hair Brush Paddle,Beauty & Personal Care,Haircare,14.99,10.49
+P0190,Hair Straightener Flat Iron,Beauty & Personal Care,Haircare,49.99,34.99
+P0191,Liquid Foundation Makeup,Beauty & Personal Care,Makeup,19.99,13.99
+P0192,Concealer Stick,Beauty & Personal Care,Makeup,14.99,10.49
+P0193,Lipstick Matte,Beauty & Personal Care,Makeup,9.99,6.99
+P0194,Mascara Volumizing,Beauty & Personal Care,Makeup,11.99,8.39
+P0195,Eye Shadow Palette,Beauty & Personal Care,Makeup,16.99,11.89
+P0196,Blush Powder Cream,Beauty & Personal Care,Makeup,12.99,9.09
+P0197,Eyeliner Pencil,Beauty & Personal Care,Makeup,7.99,5.59
+P0198,Eyebrow Pen,Beauty & Personal Care,Makeup,9.99,6.99
+P0199,Setting Spray Makeup,Beauty & Personal Care,Makeup,12.99,9.09
+P0200,Nail Polish Shade,Beauty & Personal Care,Makeup,6.99,4.89
+P0201,Electric Toothbrush,Beauty & Personal Care,Personal Care,39.99,27.99
+P0202,Toothpaste Whitening,Beauty & Personal Care,Personal Care,5.99,4.19
+P0203,Mouthwash Mint,Beauty & Personal Care,Personal Care,7.99,5.59
+P0204,Deodorant Stick,Beauty & Personal Care,Personal Care,6.99,4.89
+P0205,Antiperspirant Spray,Beauty & Personal Care,Personal Care,6.99,4.89
+P0206,Body Lotion Hydrating,Beauty & Personal Care,Personal Care,14.99,10.49
+P0207,Body Wash Shower Gel,Beauty & Personal Care,Personal Care,9.99,6.99
+P0208,Soap Bar Natural,Beauty & Personal Care,Personal Care,4.99,3.49
+P0209,Face Wipes Makeup Remover,Beauty & Personal Care,Personal Care,8.99,6.29
+P0210,Razors Shaving Set,Beauty & Personal Care,Personal Care,14.99,10.49
+P0211,The Great Gatsby Novel,Books,Fiction,14.99,9.99
+P0212,To Kill a Mockingbird,Books,Fiction,13.99,9.29
+P0213,1984 George Orwell,Books,Fiction,12.99,8.59
+P0214,Pride and Prejudice,Books,Fiction,10.99,7.29
+P0215,The Hobbit,Books,Fiction,13.99,9.29
+P0216,Dune Science Fiction,Books,Fiction,16.99,11.29
+P0217,The Catcher in the Rye,Books,Fiction,12.99,8.59
+P0218,Brave New World,Books,Fiction,13.99,9.29
+P0219,The Chronicles of Narnia,Books,Fiction,14.99,9.99
+P0220,Sherlock Holmes Complete,Books,Fiction,17.99,11.99
+P0221,Atomic Habits James Clear,Books,Non-Fiction,18.99,12.66
+P0222,Thinking Fast and Slow,Books,Non-Fiction,19.99,13.33
+P0223,Sapiens Yuval Harari,Books,Non-Fiction,20.99,14
+P0224,The 7 Habits Covey,Books,Non-Fiction,17.99,11.99
+P0225,Educated Tara Westover,Books,Non-Fiction,16.99,11.33
+P0226,Becoming Michelle Obama,Books,Non-Fiction,21.99,14.66
+P0227,Man's Search for Meaning,Books,Non-Fiction,15.99,10.66
+P0228,The Power of Now,Books,Non-Fiction,16.99,11.33
+P0229,Deep Work Cal Newport,Books,Non-Fiction,17.99,11.99
+P0230,Mindset Carol Dweck,Books,Non-Fiction,16.99,11.33
+P0231,Calculus Textbook,Books,Educational,79.99,53.33
+P0232,Biology Lab Manual,Books,Educational,49.99,33.33
+P0233,Chemistry Principles,Books,Educational,69.99,46.66
+P0234,Physics Fundamentals,Books,Educational,74.99,49.99
+P0235,English Literature Study Guide,Books,Educational,34.99,23.33
+P0236,Mathematics Problem Solver,Books,Educational,39.99,26.66
+P0237,History of World,Books,Educational,44.99,29.99
+P0238,Geography Atlas,Books,Educational,29.99,19.99
+P0239,Computer Science Basics,Books,Educational,59.99,39.99
+P0240,Economics Principles,Books,Educational,54.99,36.66
+P0241,Action Figure Marvel Avengers,Toys & Games,Action Figures,24.99,17.49
+P0242,DC Superman Collectible,Toys & Games,Action Figures,22.99,16.09
+P0243,Star Wars Baby Yoda Figure,Toys & Games,Action Figures,19.99,13.99
+P0244,Dragon Ball Goku Figure,Toys & Games,Action Figures,17.99,12.59
+P0245,Anime One Piece Figure,Toys & Games,Action Figures,21.99,15.39
+P0246,Superhero Batman Collectible,Toys & Games,Action Figures,23.99,16.79
+P0247,Spiderman Action Figure,Toys & Games,Action Figures,20.99,14.69
+P0248,Ironman Poseable Figure,Toys & Games,Action Figures,25.99,18.19
+P0249,Captain America Figure,Toys & Games,Action Figures,24.99,17.49
+P0250,Thor Collectible Figure,Toys & Games,Action Figures,26.99,18.89
+P0251,Chess Set Wooden,Toys & Games,Board Games,34.99,24.49
+P0252,Monopoly Board Game,Toys & Games,Board Games,29.99,20.99
+P0253,Scrabble Word Game,Toys & Games,Board Games,24.99,17.49
+P0254,Ludo Game Classic,Toys & Games,Board Games,14.99,10.49
+P0255,Carrom Board Game,Toys & Games,Board Games,39.99,27.99
+P0256,Snake and Ladders,Toys & Games,Board Games,9.99,6.99
+P0257,Checkers Board Game,Toys & Games,Board Games,14.99,10.49
+P0258,Candy Land Kids Game,Toys & Games,Board Games,16.99,11.89
+P0259,Connect Four Game,Toys & Games,Board Games,14.99,10.49
+P0260,Risk Strategy Game,Toys & Games,Board Games,39.99,27.99
+P0261,LEGO Classic Set,Toys & Games,Building Blocks,49.99,34.99
+P0262,LEGO City Building Set,Toys & Games,Building Blocks,59.99,41.99
+P0263,LEGO Star Wars Set,Toys & Games,Building Blocks,69.99,48.99
+P0264,LEGO Harry Potter Set,Toys & Games,Building Blocks,54.99,38.49
+P0265,LEGO Architecture,Toys & Games,Building Blocks,44.99,31.49
+P0266,Mega Bloks Building Set,Toys & Games,Building Blocks,29.99,20.99
+P0267,Duplo Building Blocks,Toys & Games,Building Blocks,34.99,24.49
+P0268,K'NEX Building Set,Toys & Games,Building Blocks,24.99,17.49
+P0269,Magnatiles Magnetic Blocks,Toys & Games,Building Blocks,54.99,38.49
+P0270,Lincoln Logs Cabin Set,Toys & Games,Building Blocks,39.99,27.99
+P0271,Jigsaw Puzzle 500 Piece,Toys & Games,Puzzles,14.99,10.49
+P0272,Jigsaw Puzzle 1000 Piece,Toys & Games,Puzzles,19.99,13.99
+P0273,3D Brain Teaser Puzzle,Toys & Games,Puzzles,24.99,17.49
+P0274,Rubik's Cube,Toys & Games,Puzzles,14.99,10.49
+P0275,Sudoku Puzzle Book,Toys & Games,Puzzles,9.99,6.99
+P0276,Crossword Puzzle Book,Toys & Games,Puzzles,8.99,6.29
+P0277,Tangram Puzzle Set,Toys & Games,Puzzles,11.99,8.39
+P0278,Logic Grid Puzzle,Toys & Games,Puzzles,12.99,9.09
+P0279,Maze Puzzle Game,Toys & Games,Puzzles,13.99,9.79
+P0280,Wooden Block Puzzle,Toys & Games,Puzzles,16.99,11.89
+P0281,Basmati Rice 10LB,Grocery,Grains,14.99,10.49
+P0282,Jasmine Rice 5LB,Grocery,Grains,9.99,6.99
+P0283,Brown Rice Organic,Grocery,Grains,11.99,8.39
+P0284,Whole Wheat Flour 5LB,Grocery,Grains,12.99,9.09
+P0285,Oats Rolled Organic,Grocery,Grains,8.99,6.29
+P0286,Dal Lentils Mixed,Grocery,Grains,7.99,5.59
+P0287,Chickpeas Canned,Grocery,Grains,2.99,2.09
+P0288,Black Beans Dry,Grocery,Grains,6.99,4.89
+P0289,Quinoa Seeds Organic,Grocery,Grains,14.99,10.49
+P0290,Pasta Semolina,Grocery,Grains,3.99,2.79
+P0291,Potato Chips Salted,Grocery,Snacks,3.99,2.79
+P0292,Corn Flakes Cereal,Grocery,Snacks,4.99,3.49
+P0293,Granola Bar Pack,Grocery,Snacks,6.99,4.89
+P0294,Mixed Nuts Roasted,Grocery,Snacks,9.99,6.99
+P0295,Chocolate Cookies,Grocery,Snacks,2.99,2.09
+P0296,Peanut Butter Creamy,Grocery,Snacks,5.99,4.19
+P0297,Almonds Raw,Grocery,Snacks,12.99,9.09
+P0298,Crackers Wheat,Grocery,Snacks,3.49,2.44
+P0299,Gummy Bears Candy,Grocery,Snacks,4.49,3.14
+P0300,Protein Powder Whey,Grocery,Snacks,34.99,24.49
+P0294,Non-stick Frying Pan 26cm v2,Home & Kitchen,Bedding,1809,781
+P0295,Stainless Steel Cooking Set v4,Home & Kitchen,Bedding,4815,1992
+P0296,Stainless Steel Cookware v5,Home & Kitchen,Lighting,6066,2452
+P0297,Coffee Table Brown v5,Home and Kitchen,Bedding,8950,3380
+P0298,Coffee Table White v4,Home & Kitchen,Lighting,8782,9809
+P0299,Bookshelf 5-Shelf v5,Home & Kitchen,Cookware,6988,7698
+P0300,Bookshelf Wall Mount v4,Home & Kitchen,Storage,5105,1946
