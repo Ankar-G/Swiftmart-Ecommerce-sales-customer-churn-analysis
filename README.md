@@ -249,18 +249,18 @@ swiftmart-sales-customer-churn-analysis/
 
 ### Sales & Customer Performance Dashboard
 
-(Add Screenshot)
+![Sales & Customer Performance Dashboard](https://github.com/Ankar-G/Swiftmart-Ecommerce-sales-customer-churn-analysis/blob/main/Dashboard%20Screenshot/Screenshot%202026-06-18%20130514.png)
 
 ### Churn & Retention Dashboard
 
-(Add Screenshot)
+![Churn & Retention Dashboard](https://github.com/Ankar-G/Swiftmart-Ecommerce-sales-customer-churn-analysis/blob/main/Dashboard%20Screenshot/Screenshot%202026-06-18%20130528.png)
 
 ---
 
 ## 🤝 Connect With Me
 
-* LinkedIn: Your LinkedIn Profile
-* Email: Your Email Address
+* LinkedIn: https://www.linkedin.com/in/ankar-goswami-23a196245/
+* Email: goswamijit99@gmail.com
 
 ---
 
