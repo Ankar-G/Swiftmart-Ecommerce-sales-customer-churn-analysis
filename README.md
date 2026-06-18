@@ -245,7 +245,7 @@ swiftmart-sales-customer-churn-analysis/
 
 ### Executive Dashboard
 
-![Executive Dashboard](https://github.com/Ankar-G/Healthcare-Analytics-SQL-Tableau/blob/main/Dashboard%20Screenshots/Screenshot%202026-06-08%20123126.png)
+![Executive Dashboard](https://github.com/Ankar-G/Swiftmart-Ecommerce-sales-customer-churn-analysis/blob/main/Dashboard%20Screenshot/Screenshot%202026-06-18%20130456.png)
 
 ### Sales & Customer Performance Dashboard
 
